@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Diplom.app" target="11" />
+      <module name="Diplom.comporison_test" target="11" />
+      <module name="Diplom.data" target="11" />
+      <module name="Diplom.multiple_answet_test" target="11" />
+      <module name="Diplom.open_test" target="11" />
+      <module name="Diplom.simple_test" target="11" />
+      <module name="Diplom.test_list" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
